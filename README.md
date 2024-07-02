@@ -14,11 +14,11 @@ Real-Time Recommendations: Interactive interface powered by Streamlit framework 
 # Technologies Used
 1. Python
 
-2.Jupyter Notebook
+2 Jupyter Notebook
 
 3. PyCharm
 
-4. Streamlit
+4. Streamlit Framework
 
 5. Pandas, NumPy, Scikit-learn
 
