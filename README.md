@@ -12,9 +12,14 @@ Hybrid Techniques: Combining collaborative and content-based filtering for impro
 Real-Time Recommendations: Interactive interface powered by Streamlit framework for seamless user interaction.
 
 # Technologies Used
-Python
-Jupyter Notebook
-PyCharm
-Streamlit
-Pandas, NumPy, Scikit-learn
-Flask (for backend integration, if applicable)
+1. Python
+
+2.Jupyter Notebook
+
+3. PyCharm
+
+4. Streamlit
+
+5. Pandas, NumPy, Scikit-learn
+
+6. Flask (for backend integration, if applicable)
